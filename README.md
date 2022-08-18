@@ -108,13 +108,58 @@ II. MARCO TEORICO
 
 III. Resolucion de Problemas.
 
+EJERCICIOS CAPITULO 13
+
+![image](https://user-images.githubusercontent.com/105677161/185440309-29271417-a421-463d-a8c8-53f5b1ca3c6e.png)
+
+![image](https://user-images.githubusercontent.com/105677161/185440633-4048e405-9c50-4902-9e20-57bbf76f8d65.png)
+
+![image](https://user-images.githubusercontent.com/105677161/185440769-a8876ef2-994b-4318-bb42-947f7ef2b476.png)
+
+![image](https://user-images.githubusercontent.com/105677161/185440893-e674c944-5949-4053-8c2f-3a0b5abb24b4.png)
+
+![image](https://user-images.githubusercontent.com/105677161/185440989-9622cdf6-0742-441d-b367-e67f153fa83f.png)
+
+![image](https://user-images.githubusercontent.com/105677161/185441135-f31f2532-a9b8-48c2-b3f1-9f2a4f355ef7.png)
+
+![image](https://user-images.githubusercontent.com/105677161/185441539-82ddfa3b-ac59-4521-ada4-54cddde4fbd5.png)
+
+![image](https://user-images.githubusercontent.com/105677161/185441660-ad847e26-445e-4862-ba1c-1000ae0410d6.png)
+
+![image](https://user-images.githubusercontent.com/105677161/185441789-3c8f13e1-f649-414d-adae-6a12d4f70578.png)
+
+![image](https://user-images.githubusercontent.com/105677161/185441952-b58fe4ef-90a9-4d31-bb16-8e7f72d1e11f.png)
+
+![image](https://user-images.githubusercontent.com/105677161/185442066-7151e0e0-f114-40bb-b43a-c21811f35a5b.png)
+
+![image](https://user-images.githubusercontent.com/105677161/185442200-ebf257e0-a03b-4c91-b5b2-ed91e6d21fb7.png)
+
+EJERCICIOS CAPITULO 14
+
+![image](https://user-images.githubusercontent.com/105677161/185442404-c3638aac-1eb8-483d-9740-a7ab00f06d05.png)
+
+![image](https://user-images.githubusercontent.com/105677161/185442537-f7676ded-3068-4005-ba32-6c7e6fffa33d.png)
+
+![image](https://user-images.githubusercontent.com/105677161/185442640-beb14fcd-e8a3-4688-b3eb-fcdded54ee4c.png)
+
+![image](https://user-images.githubusercontent.com/105677161/185442878-cd025bfe-bd8c-4ed2-b279-48ed6f8677b7.png)
+
+![image](https://user-images.githubusercontent.com/105677161/185443131-65e2829b-686d-4fb3-b1b7-2c3237d05488.png)
+
+![image](https://user-images.githubusercontent.com/105677161/185443264-6aca45ea-5689-4d8c-a180-3eb36ec7e4e5.png)
+
+![image](https://user-images.githubusercontent.com/105677161/185443413-a800fec4-2fa8-4649-a615-368fa4b518f3.png)
+
+![image](https://user-images.githubusercontent.com/105677161/185443510-bd2bb023-8438-4eca-bbac-eec47854da54.png)
+
+
 IV. Video
 
-
+Link del video: https://www.youtube.com/watch?v=Gckb8cS1h5g
 
 V. Conclusiones
 
-
+En conclusion pudimos describir la construcción y las características básicas de un inductor, estudiar varios tipos de inductores, analizar inductores dispuestos en serie y en paralelo. Y ya por ultimo describir cómo se construye un transformador y cómo funciona, analizar cómo los transformadores incrementa y disminuyen el voltaje.
 
 VI. Bibliografia
 
